@@ -54,7 +54,7 @@ API : [Developer API](https://developer.shodan.io/api)
 ```
 ### 5. Install Interlace [@codingo](https://github.com/codingo/Interlace.git) to multithread [Follow the codingo interlace repo instructions]
 ```bash
-# git clone https://github.com/codingo/Interlace.git & install accordingly. 
+# git clone https://github.com/codingo/Interlace.git && cd Interlace && python3 setup.py install
 ```
 ### 6. Install nuclei [@projectdiscovery](https://github.com/projectdiscovery/nuclei)
 ```bash
